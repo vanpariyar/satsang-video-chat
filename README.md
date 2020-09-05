@@ -1,6 +1,11 @@
 # satsang-video-chat
 Learning to make a video call client from web Dev simplified. Go chek it out https://youtu.be/DvlyzDZDEq4
 
+This is an exact copy of the tutorial I am thinking about adding a new feature, 
+
+**feel free to suggest new feature,** 
+
+
 ### See Demo Hosted oN Glitch.
 
 https://satsang-video-chat.glitch.me
